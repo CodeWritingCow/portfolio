@@ -306,17 +306,17 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "#"
+      link = "https://twitter.com/CodeWritingCow"
       title = "Twitter"
 
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      link = "#"
-      title = "Facebook"
+    # [[params.footer.social]]
+    #   icon = "fa-facebook"
+    #   link = "#"
+    #   title = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      link = "#"
+      link = "https://www.linkedin.com/in/gary-pang-68193841/"
       title = "LinkedIn"
 
     [[params.footer.quicklinks]]
